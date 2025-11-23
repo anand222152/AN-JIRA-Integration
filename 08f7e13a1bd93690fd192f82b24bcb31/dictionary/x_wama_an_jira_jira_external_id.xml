@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e6d239ba1b9d3690fd192f82b24bcb0d" label="JIRA external ID" max_length="40" name="x_wama_an_jira_jira_external_id" type="collection">
+        <element choice="1" label="Direction" max_length="40" name="direction" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Bi-dir" value="Bi-dir"/>
+                <element inactive_on_update="false" label="Jira→SN" value="Jira→SN"/>
+                <element inactive_on_update="false" label="SN→Jira" value="SN→Jira"/>
+            </choice>
+        </element>
+        <element label="JIRA Board ID" max_length="20" name="jira_board_id" type="string"/>
+        <element label="JIRA ID" max_length="40" name="jira_id" type="string"/>
+        <element label="JIRA Instance" max_length="50" name="jira_instance" type="string"/>
+        <element label="JIRA Key" max_length="20" name="jira_key" type="string"/>
+        <element label="JIRA Sprint ID" max_length="50" name="jira_sprint_id" type="string"/>
+        <element label="Last Sync" max_length="40" name="last_sync" type="glide_date_time"/>
+        <element label="SN Sys ID" max_length="50" name="sn_sys_id" type="string"/>
+        <element label="SN Table" max_length="40" name="sn_table" type="string"/>
+    </element>
+</database>

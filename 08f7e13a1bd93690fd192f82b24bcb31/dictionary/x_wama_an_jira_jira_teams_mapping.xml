@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9ffaf93a1b117690fd192f82b24bcb69" label="JIRA Teams Mapping" max_length="40" name="x_wama_an_jira_jira_teams_mapping" type="collection">
+        <element label="Assignment Group" max_length="32" name="assignment_group" reference="sys_user_group" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Instance" max_length="32" name="instance" reference="x_wama_an_jira_jira_instance" type="reference"/>
+        <element label="JIRA Board ID" max_length="20" name="jira_board_id" type="string"/>
+        <element label="JIRA Project Key " max_length="20" name="jira_project_key" type="string"/>
+        <index name="index">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index2">
+            <element name="instance"/>
+        </index>
+    </element>
+</database>
