@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1ad535721bdd3690fd192f82b24bcb6a" label="JIRA Instance" max_length="40" name="x_wama_an_jira_jira_instance" type="collection">
+        <element label="API Version" max_length="10" name="api_version" type="string"/>
+        <element label="Connection Alias" max_length="32" name="connection_alias" reference="sys_alias" type="reference"/>
+        <element label="Last Tested" max_length="40" name="last_tested" type="glide_date_time"/>
+        <element label="Name" max_length="20" name="name" type="string"/>
+        <element label="State" max_length="20" name="state" type="string"/>
+        <element label="URL" max_length="1024" name="url" type="url"/>
+        <index name="index">
+            <element name="connection_alias"/>
+        </index>
+    </element>
+</database>

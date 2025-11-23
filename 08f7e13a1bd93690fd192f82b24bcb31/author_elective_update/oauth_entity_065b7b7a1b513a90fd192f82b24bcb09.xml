@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="DELETE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url>https://auth.atlassian.com/authorize</auth_url>
+        <certificate_url/>
+        <client_id>Lk64T3Sr3kW54Jg5YswrjhXtpNZYC6nD</client_id>
+        <client_secret>﷞﷟﷒811025a81b751110fd192f82b24bcbe3﷬﷔1﷬﷭QDAqbvRgEue2DNQol5fMFw==K_tgEQ4P-txl4oSYipxdMBp0KkuSQZvUj9kVlg-5NWJCFf2YcPo6FXqqrjZHUPWSSGQgdtvZ2Dtzq_BpT8RD5w1tWFfAOUdFskZCuyTEGhNiJxgWZGbOmbKVcIg=﷮﷯</client_secret>
+        <client_type/>
+        <client_uuid>c25b7b7a1b513a90fd192f82b24bcb09</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>client_credentials</default_grant_type>
+        <extend_refresh_token_expiry>false</extend_refresh_token_expiry>
+        <id_token_lifespan>0</id_token_lifespan>
+        <inbound_grant_type>not_applicable</inbound_grant_type>
+        <jwt_provider/>
+        <login_url/>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <mobile_client>false</mobile_client>
+        <name>AN JIRA PDI</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://wmtest.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt>0</salt>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sub_claim>user_name</sub_claim>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>apachiya</sys_created_by>
+        <sys_created_on>2025-11-23 03:42:43</sys_created_on>
+        <sys_id>065b7b7a1b513a90fd192f82b24bcb09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AN JIRA PDI</sys_name>
+        <sys_package display_value="AN JIRA" source="x_wama_an_jira">08f7e13a1bd93690fd192f82b24bcb31</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</sys_scope>
+        <sys_update_name>oauth_entity_065b7b7a1b513a90fd192f82b24bcb09</sys_update_name>
+        <sys_updated_by>apachiya</sys_updated_by>
+        <sys_updated_on>2025-11-23 03:42:43</sys_updated_on>
+        <token_format>opaque</token_format>
+        <token_url>https://auth.atlassian.com/oauth/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <use_pkce>false</use_pkce>
+        <user/>
+    </oauth_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</application>
+        <file_path/>
+        <instance_id>49fb2f59db9c20904b5c50b6f4961989</instance_id>
+        <instance_name>wmtest</instance_name>
+        <name>oauth_entity_065b7b7a1b513a90fd192f82b24bcb09</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity"><oauth_entity action="INSERT_OR_UPDATE"><access>public</access><access_token_lifespan>1800</access_token_lifespan><active>true</active><auth_code_lifespan>0</auth_code_lifespan><auth_url>https://auth.atlassian.com/authorize</auth_url><certificate_url/><client_id>Lk64T3Sr3kW54Jg5YswrjhXtpNZYC6nD</client_id><client_secret>﷞﷟﷒811025a81b751110fd192f82b24bcbe3﷬﷔1﷬﷭QDAqbvRgEue2DNQol5fMFw==K_tgEQ4P-txl4oSYipxdMBp0KkuSQZvUj9kVlg-5NWJCFf2YcPo6FXqqrjZHUPWSSGQgdtvZ2Dtzq_BpT8RD5w1tWFfAOUdFskZCuyTEGhNiJxgWZGbOmbKVcIg=﷮﷯</client_secret><client_type/><client_uuid>c25b7b7a1b513a90fd192f82b24bcb09</client_uuid><code_challenge_method>S256</code_challenge_method><comments/><default_grant_type>client_credentials</default_grant_type><extend_refresh_token_expiry>false</extend_refresh_token_expiry><id_token_lifespan>0</id_token_lifespan><inbound_grant_type>not_applicable</inbound_grant_type><jwt_provider/><login_url/><logo_url/><message_signature_lifespan>0</message_signature_lifespan><mobile_client>false</mobile_client><name>AN JIRA PDI</name><oauth_api_script/><protocol_name/><public_client>false</public_client><redirect_url>https://wmtest.service-now.com/oauth_redirect.do</redirect_url><refresh_token_lifespan>8640000</refresh_token_lifespan><refresh_token_url/><restricted_binding>false</restricted_binding><revoke_token_url/><salt>0</salt><send_client_credentials_as>request_body_parameter</send_client_credentials_as><skip_authorize>false</skip_authorize><sub_claim>user_name</sub_claim><sys_class_name>oauth_entity</sys_class_name><sys_created_by>apachiya</sys_created_by><sys_created_on>2025-11-23 03:42:43</sys_created_on><sys_id>065b7b7a1b513a90fd192f82b24bcb09</sys_id><sys_mod_count>0</sys_mod_count><sys_name>AN JIRA PDI</sys_name><sys_package display_value="AN JIRA" source="x_wama_an_jira">08f7e13a1bd93690fd192f82b24bcb31</sys_package><sys_policy/><sys_scope display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</sys_scope><sys_update_name>oauth_entity_065b7b7a1b513a90fd192f82b24bcb09</sys_update_name><sys_updated_by>apachiya</sys_updated_by><sys_updated_on>2025-11-23 03:42:43</sys_updated_on><token_format>opaque</token_format><token_url>https://auth.atlassian.com/oauth/token</token_url><type>oauth_provider</type><use_mutual_auth>false</use_mutual_auth><use_pkce>false</use_pkce><user/></oauth_entity></record_update>]]></payload>
+        <payload_hash>-1313295194</payload_hash>
+        <record_name>AN JIRA PDI</record_name>
+        <reverted_from/>
+        <source>88f7e13a1bd93690fd192f82b24bcb36</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>apachiya</sys_created_by>
+        <sys_created_on>2025-11-23 03:42:43</sys_created_on>
+        <sys_id>e6bbf3fe1b513a90fd192f82b24bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19aaece8d4e0000001</sys_recorded_at>
+        <sys_updated_by>apachiya</sys_updated_by>
+        <sys_updated_on>2025-11-23 03:42:43</sys_updated_on>
+        <type>Application Registries</type>
+        <update_guid>66bbf3fe77513a90d08d8826103b0fa9</update_guid>
+        <update_guid_history>66bbf3fe77513a90d08d8826103b0fa9:-1313295194</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="AN JIRA PDI">27f2cc4f1bd13a90fd192f82b24bcb4e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>apachiya</sys_created_by>
+        <sys_created_on>2025-11-23 04:14:28</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity">oauth_entity</sys_db_object>
+        <sys_id>e8015898d82b4c4891e0b3bef3eea840</sys_id>
+        <sys_metadata>065b7b7a1b513a90fd192f82b24bcb09</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AN JIRA PDI</sys_name>
+        <sys_package display_value="AN JIRA" source="x_wama_an_jira">08f7e13a1bd93690fd192f82b24bcb31</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</sys_scope>
+        <sys_scope_delete display_value="">38e051f2c23341e6bdb39ddf1dd54329</sys_scope_delete>
+        <sys_update_name>oauth_entity_065b7b7a1b513a90fd192f82b24bcb09</sys_update_name>
+        <sys_update_version display_value="oauth_entity_065b7b7a1b513a90fd192f82b24bcb09">e6bbf3fe1b513a90fd192f82b24bcbaa</sys_update_version>
+        <sys_updated_by>apachiya</sys_updated_by>
+        <sys_updated_on>2025-11-23 04:14:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
