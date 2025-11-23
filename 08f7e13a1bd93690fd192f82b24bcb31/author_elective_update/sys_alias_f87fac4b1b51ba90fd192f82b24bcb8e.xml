@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_wama_an_jira.AN_jira_Basic_v002</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>AN jira Basic v002</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>apachiya</sys_created_by>
+        <sys_created_on>2025-11-23 07:29:08</sys_created_on>
+        <sys_id>f87fac4b1b51ba90fd192f82b24bcb8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_wama_an_jira.AN_jira_Basic_v002</sys_name>
+        <sys_package display_value="AN JIRA" source="x_wama_an_jira">08f7e13a1bd93690fd192f82b24bcb31</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</sys_scope>
+        <sys_update_name>sys_alias_f87fac4b1b51ba90fd192f82b24bcb8e</sys_update_name>
+        <sys_updated_by>apachiya</sys_updated_by>
+        <sys_updated_on>2025-11-23 07:29:08</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</application>
+        <file_path/>
+        <instance_id>49fb2f59db9c20904b5c50b6f4961989</instance_id>
+        <instance_name>wmtest</instance_name>
+        <name>sys_alias_f87fac4b1b51ba90fd192f82b24bcb8e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_wama_an_jira.AN_jira_Basic_v002</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>AN jira Basic v002</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>apachiya</sys_created_by><sys_created_on>2025-11-23 07:29:08</sys_created_on><sys_id>f87fac4b1b51ba90fd192f82b24bcb8e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_wama_an_jira.AN_jira_Basic_v002</sys_name><sys_package display_value="AN JIRA" source="x_wama_an_jira">08f7e13a1bd93690fd192f82b24bcb31</sys_package><sys_policy/><sys_scope display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</sys_scope><sys_update_name>sys_alias_f87fac4b1b51ba90fd192f82b24bcb8e</sys_update_name><sys_updated_by>apachiya</sys_updated_by><sys_updated_on>2025-11-23 07:29:08</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1982248989</payload_hash>
+        <record_name>x_wama_an_jira.AN_jira_Basic_v002</record_name>
+        <reverted_from/>
+        <source>48374c8f1b153a90fd192f82b24bcbbc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>apachiya</sys_created_by>
+        <sys_created_on>2025-11-23 07:29:08</sys_created_on>
+        <sys_id>1f8fac8b1b51ba90fd192f82b24bcb82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19aaf9dd92f0000001</sys_recorded_at>
+        <sys_updated_by>apachiya</sys_updated_by>
+        <sys_updated_on>2025-11-23 07:29:08</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>9b8fac8bd751ba9004d476530091a881</update_guid>
+        <update_guid_history>9b8fac8bd751ba9004d476530091a881:1982248989</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>apachiya</sys_created_by>
+        <sys_created_on>2025-11-23 07:34:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>15aebc6a4a604c088ac46b4eb18c63e4</sys_id>
+        <sys_metadata>f87fac4b1b51ba90fd192f82b24bcb8e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_wama_an_jira.AN_jira_Basic_v002</sys_name>
+        <sys_package display_value="AN JIRA" source="x_wama_an_jira">08f7e13a1bd93690fd192f82b24bcb31</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</sys_scope>
+        <sys_scope_delete display_value="">38e051f2c23341e6bdb39ddf1dd54329</sys_scope_delete>
+        <sys_update_name>sys_alias_f87fac4b1b51ba90fd192f82b24bcb8e</sys_update_name>
+        <sys_update_version display_value="sys_alias_f87fac4b1b51ba90fd192f82b24bcb8e">1f8fac8b1b51ba90fd192f82b24bcb82</sys_update_version>
+        <sys_updated_by>apachiya</sys_updated_by>
+        <sys_updated_on>2025-11-23 07:34:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

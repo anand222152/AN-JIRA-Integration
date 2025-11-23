@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content>{&#13;
+  "fields": {&#13;
+    "project": {&#13;
+      "key": "${key}"&#13;
+    },&#13;
+    "summary": "${summary}",&#13;
+    "issuetype": {&#13;
+      "name": "Task"&#13;
+    },&#13;
+    "description": {&#13;
+      "type": "doc",&#13;
+      "version": 1,&#13;
+      "content": [&#13;
+        {&#13;
+          "type": "paragraph",&#13;
+          "content": [&#13;
+            {&#13;
+              "type": "text",&#13;
+              "text": "${description}"&#13;
+            }&#13;
+          ]&#13;
+        }&#13;
+      ]&#13;
+    }&#13;
+  }&#13;
+}</content>
+        <function_name>AN create Issue</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>AN JIRA [ AN create Issue ]</qualified_name>
+        <rest_endpoint>https://anand22152.atlassian.net/rest/api/3/issue</rest_endpoint>
+        <rest_message display_value="AN JIRA">508e38031b91fa90fd192f82b24bcb16</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>apachiya</sys_created_by>
+        <sys_created_on>2025-11-23 08:51:37</sys_created_on>
+        <sys_id>2d52c5071b55fa90fd192f82b24bcb69</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>AN create Issue</sys_name>
+        <sys_package display_value="AN JIRA" source="x_wama_an_jira">08f7e13a1bd93690fd192f82b24bcb31</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</sys_scope>
+        <sys_update_name>sys_rest_message_fn_2d52c5071b55fa90fd192f82b24bcb69</sys_update_name>
+        <sys_updated_by>apachiya</sys_updated_by>
+        <sys_updated_on>2025-11-23 09:12:59</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

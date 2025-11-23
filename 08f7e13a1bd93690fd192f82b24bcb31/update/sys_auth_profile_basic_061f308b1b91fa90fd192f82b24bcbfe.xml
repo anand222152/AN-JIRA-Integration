@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>AN Jira Basic Auth</name>
+        <password>﷞﷟﷒3d7fe5ac1bf51110fd192f82b24bcb83﷬﷔1﷬﷭NUfKFmaa1aj2SnxK6HcotQ==xlewCIWonKcCWqAXld-09htWa3xxObs_2iMSbNvTDkBA-CYqaXVCddbQjSOVy6L8G7R46gTsxNAOrT3fie12N67AhYLZL8Ih0dVxITAHeVKF8LWqqhMKKo4XefZyY2PHnzj_vlfBAhprxC8gR5NqnyOku229GRcB4CRGp2yxKrVqs11NA08uYKgxMyIXi-_okTVphoTiAqW88_SSAfNNBFjntbxlh6SrOMddoeJeRpr9ts7dBAcrPocc9g0jxJa_9WqZdk0_3J6Msm8mLTfmQQ==﷮﷯</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>apachiya</sys_created_by>
+        <sys_created_on>2025-11-23 08:37:23</sys_created_on>
+        <sys_id>061f308b1b91fa90fd192f82b24bcbfe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AN Jira Basic Auth</sys_name>
+        <sys_package display_value="AN JIRA" source="x_wama_an_jira">08f7e13a1bd93690fd192f82b24bcb31</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_061f308b1b91fa90fd192f82b24bcbfe</sys_update_name>
+        <sys_updated_by>apachiya</sys_updated_by>
+        <sys_updated_on>2025-11-23 08:37:23</sys_updated_on>
+        <username>anand22152@gmail.com</username>
+    </sys_auth_profile_basic>
+</record_update>

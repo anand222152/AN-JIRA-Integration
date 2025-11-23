@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template display_value="OAuth Authorization Code">281bcf1a73200010278a97f8faf6a7d0</configuration_template>
+        <connection_type>http_connection</connection_type>
+        <id>x_wama_an_jira.AN_Jira_alias</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>AN Jira alias</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>apachiya</sys_created_by>
+        <sys_created_on>2025-11-23 06:50:53</sys_created_on>
+        <sys_id>b7a6ac831bd97a90fd192f82b24bcbda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_wama_an_jira.AN_Jira_alias</sys_name>
+        <sys_package display_value="AN JIRA" source="x_wama_an_jira">08f7e13a1bd93690fd192f82b24bcb31</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</sys_scope>
+        <sys_update_name>sys_alias_b7a6ac831bd97a90fd192f82b24bcbda</sys_update_name>
+        <sys_updated_by>apachiya</sys_updated_by>
+        <sys_updated_on>2025-11-23 06:50:53</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

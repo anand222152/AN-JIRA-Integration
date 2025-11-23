@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template display_value="Basic Auth with API Key">240a61ee77500010edfc0ff9ba1061e3</configuration_template>
+        <connection_type>http_connection</connection_type>
+        <id>x_wama_an_jira.AN_Basic_Auth_voo3</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>AN Basic Auth voo3</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>apachiya</sys_created_by>
+        <sys_created_on>2025-11-23 07:33:34</sys_created_on>
+        <sys_id>fa70300f1b91ba90fd192f82b24bcb05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_wama_an_jira.AN_Basic_Auth_voo3</sys_name>
+        <sys_package display_value="AN JIRA" source="x_wama_an_jira">08f7e13a1bd93690fd192f82b24bcb31</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</sys_scope>
+        <sys_update_name>sys_alias_fa70300f1b91ba90fd192f82b24bcb05</sys_update_name>
+        <sys_updated_by>apachiya</sys_updated_by>
+        <sys_updated_on>2025-11-23 07:33:34</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</application>
+        <file_path/>
+        <instance_id>49fb2f59db9c20904b5c50b6f4961989</instance_id>
+        <instance_name>wmtest</instance_name>
+        <name>sys_alias_fa70300f1b91ba90fd192f82b24bcb05</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template display_value="Basic Auth with API Key">240a61ee77500010edfc0ff9ba1061e3</configuration_template><connection_type>http_connection</connection_type><id>x_wama_an_jira.AN_Basic_Auth_voo3</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>AN Basic Auth voo3</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>apachiya</sys_created_by><sys_created_on>2025-11-23 07:33:34</sys_created_on><sys_id>fa70300f1b91ba90fd192f82b24bcb05</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_wama_an_jira.AN_Basic_Auth_voo3</sys_name><sys_package display_value="AN JIRA" source="x_wama_an_jira">08f7e13a1bd93690fd192f82b24bcb31</sys_package><sys_policy/><sys_scope display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</sys_scope><sys_update_name>sys_alias_fa70300f1b91ba90fd192f82b24bcb05</sys_update_name><sys_updated_by>apachiya</sys_updated_by><sys_updated_on>2025-11-23 07:33:34</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1391794845</payload_hash>
+        <record_name>x_wama_an_jira.AN_Basic_Auth_voo3</record_name>
+        <reverted_from/>
+        <source>48374c8f1b153a90fd192f82b24bcbbc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>apachiya</sys_created_by>
+        <sys_created_on>2025-11-23 07:33:34</sys_created_on>
+        <sys_id>0c903c4f1b91ba90fd192f82b24bcb8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19aafa1e6f70000001</sys_recorded_at>
+        <sys_updated_by>apachiya</sys_updated_by>
+        <sys_updated_on>2025-11-23 07:33:34</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>88903c4f4491ba90e87e6a9273609a8e</update_guid>
+        <update_guid_history>88903c4f4491ba90e87e6a9273609a8e:1391794845</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>apachiya</sys_created_by>
+        <sys_created_on>2025-11-23 07:34:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>085c57a2ecc94b4084bdf62e2737c900</sys_id>
+        <sys_metadata>fa70300f1b91ba90fd192f82b24bcb05</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_wama_an_jira.AN_Basic_Auth_voo3</sys_name>
+        <sys_package display_value="AN JIRA" source="x_wama_an_jira">08f7e13a1bd93690fd192f82b24bcb31</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AN JIRA">08f7e13a1bd93690fd192f82b24bcb31</sys_scope>
+        <sys_scope_delete display_value="">38e051f2c23341e6bdb39ddf1dd54329</sys_scope_delete>
+        <sys_update_name>sys_alias_fa70300f1b91ba90fd192f82b24bcb05</sys_update_name>
+        <sys_update_version display_value="sys_alias_fa70300f1b91ba90fd192f82b24bcb05">0c903c4f1b91ba90fd192f82b24bcb8f</sys_update_version>
+        <sys_updated_by>apachiya</sys_updated_by>
+        <sys_updated_on>2025-11-23 07:34:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
